@@ -1,6 +1,7 @@
 # r_0003
  Naval game with smartphone and computer controls
-## Naval Warfare Game with Computer and Smartphone Controls
+ ![](im2.jfif)
+# Naval Warfare Game with Computer and Smartphone Controls
 ---
 This game is about naval warfare. Players have ships, air and ground units with specific roles to combat enemy forces. Future version will contain several classes of ships including submarines and aircraft carriers, air forces with close air support, interceptors, bombers, torpedo bombers and strategic bombers. Ground forces will include tanks and infantry. Islands with ports will be added.
 ---
